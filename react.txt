@@ -1,0 +1,32 @@
+//webpack installation
+npm i webpack --save-dev
+// webpack cli installation
+npm i webpack-cli --save-dev
+//babel dependency
+npm i babel-loader babel-core babel-preset-env babel-preset-react --save-dev
+
+//run code
+npm run build
+npm run start
+
+npm i html-loader --save-dev
+npm i html-webpack-plugin -D
+
+link
+https://medium.freecodecamp.org/part-1-react-app-from-scratch-using-webpack-4-562b1d231e75
+
+video
+https://www.youtube.com/watch?v=uextYhQGP6k&index=2&list=PL55RiY5tL51oyA8euSROLjMFZbXaV7skS
+
+npm install create-react-app -g
+create-react-app pro\
+&nbsp
+
+git
+
+
+git status
+git add .
+git commit -m "deleted some file"
+git push origin master
+git remote -v
